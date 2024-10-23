@@ -77,7 +77,7 @@ const Login = () => {
                 initial="hidden"
                 animate="visible"
               >
-                Impleox
+                Impelox
               </motion.span>
               <motion.span
                 variants={container(1.5)}
